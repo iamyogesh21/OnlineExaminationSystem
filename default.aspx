@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/app.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <script rel="javascript" src="js/jquery-3.1.0.min.js" ></script>
+    <script rel="javascript" src="js/jquery-3.3.1.min.js" ></script>
   </head>
   <body>
      <div class="chatbot">
